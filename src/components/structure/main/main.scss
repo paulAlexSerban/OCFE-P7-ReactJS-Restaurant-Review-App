@@ -1,0 +1,12 @@
+@import '../../../common/_variables.scss';
+
+$component: 'main';
+
+.#{$component} {
+  &__base {
+    width: 100%;
+    height: 78vh;
+    display: flex;
+    flex-direction: row;
+  }
+}
