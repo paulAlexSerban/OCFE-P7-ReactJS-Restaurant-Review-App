@@ -1,6 +1,8 @@
 @import '../../../common/variables';
 
-.basepage {
+$templateName: 'basepage';
+
+.#{$templateName}{
   height: 100%;
   width: 100%;
   display: flex;

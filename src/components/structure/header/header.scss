@@ -1,8 +1,8 @@
 @import '../../../common/_variables.scss';
 
-$component: 'header';
+$structureCmpName: 'header';
 
-.#{$component}  {
+.#{$structureCmpName}  {
   &__base {
     display: flex;
     flex-direction: column;

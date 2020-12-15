@@ -1,8 +1,8 @@
 @import '../../../common/_variables.scss';
 
-$component: 'main';
+$structureCmpName: 'main';
 
-.#{$component} {
+.#{$structureCmpName} {
   &__base {
     width: 100%;
     height: 78vh;

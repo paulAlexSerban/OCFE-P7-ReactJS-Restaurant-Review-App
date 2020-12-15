@@ -2,5 +2,8 @@
 @import './_breakpoints';
 
 
-$baseline: 8px;
-$gutter: 32px;
+$baseline: 0.6rem;
+$gutter: 3rem;
+
+$margin-baseline: $baseline * 2.4rem;
+$padding-gutter: $gutter / 2;

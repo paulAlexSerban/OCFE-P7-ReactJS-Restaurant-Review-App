@@ -1,6 +1,8 @@
 @import '../../../common/_variables.scss';
 
-.article {
+$structureCmpName: 'article';
+
+.#{$structureCmpName} {
   &__base {
     @media (min-width: $desktop) {
       width: 100%;
