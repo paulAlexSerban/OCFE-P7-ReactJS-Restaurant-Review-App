@@ -1,4 +1,4 @@
-# OCFE-P7-ReactJS-Restaurant-Review-App
+# ReactJS - Restaurant Review - Single Page App
 > OpenClassrooms - Front End Developer Path - Project 7 - ReactJS Restaurant Review Single Page Application
 
 ## Project Brief 
