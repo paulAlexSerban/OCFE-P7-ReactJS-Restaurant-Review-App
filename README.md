@@ -1,5 +1,5 @@
 # ReactJS - Restaurant Review - Single Page App
-> OpenClassrooms - Front End Developer Path - Project 7 - ReactJS Restaurant Review Single Page Application
+> [OpenClassrooms](https://openclassrooms.com/) - Front End Developer Path - Project 7 - ReactJS Restaurant Review Single Page Application
 
 ## Project Brief 
   After choosing to start in the restaurant review business, you goal is to create an easy-to-use, simple service that offers reviews of restaurants around you.
