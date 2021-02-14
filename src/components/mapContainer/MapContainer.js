@@ -5,15 +5,15 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { GoogleMap, useLoadScript, Marker, InfoWindow  } from "@react-google-maps/api";
 import { Button, Spinner, Card, Modal } from "react-bootstrap";
 import mapStyles from "./MapStyles";
-import Aside from "../structure/aside/Aside";
-import RatingCard from "./RatingCard";
+import Aside from "../../layout/aside/Aside";
+import RatingCard from "../ratingCard/RatingCard";
 import PhotoStrip from '../photostrip/PhotoStrip';
-import StreetView from './StreetView';
-import AddRating from './AddRating';
-import AddRestaurantDetails from "./AddRestaurantDetails";
-import restaurantList from "../../common/db/restaurantsList";
+import StreetView from '../streetView/StreetView';
+import AddRating from '../addRating/AddRating';
+import AddRestaurantDetails from "../addRestaurant/AddRestaurant";
+import restaurantList from "../../assets/db/restaurantsList";
 import "./map-container.scss";
-import './infowindow.scss';
+import '../infoWindow/infowindow.scss';
 import "@reach/combobox/styles.css";
 
 const libraries = ["places"]; // to avoid React rendering issues we get the library name from an object

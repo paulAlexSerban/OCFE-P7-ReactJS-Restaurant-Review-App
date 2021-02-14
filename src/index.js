@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 import "./index.scss";
 
 // Import root basepage
-import Basepage from "./components/templates/basepage/Basepage";
+import Basepage from "./pages/basepage/Basepage";
 
 // Import 3rd party libraries
 import "primereact/resources/themes/nova-light/theme.css";

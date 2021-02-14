@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import GoogleMapCmp from '../../map/GoogleMapCmp';
+import GoogleMapCmp from '../../components/mapContainer/MapContainer';
 import './article.scss';
 
 class Article extends Component {

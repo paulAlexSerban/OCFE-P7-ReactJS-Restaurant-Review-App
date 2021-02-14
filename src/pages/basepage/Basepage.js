@@ -1,7 +1,7 @@
 import React from "react";
-import Main from "../../structure/main/Main";
-import Header from "../../structure/header/Header";
-import Footer from "../../structure/footer/Footer";
+import Main from "../../layout/main/Main";
+import Header from "../../layout/header/Header";
+import Footer from "../../layout/footer/Footer";
 
 const basepage = () => {
   return (

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Carousel from 'react-elastic-carousel';
-import Photo from "./Photo";
+import Photo from "../photo/Photo";
 import "./photoStrip.scss";
 
 const breakPoints = [
